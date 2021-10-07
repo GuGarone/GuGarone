@@ -1,5 +1,5 @@
 - I'm @GuGarone
-- I'm currently learning Java, Clang, C++, C#, Html + Css, JavaScript and SQL
+- I'm currently learning Java, C_lang, C++, C#, HTML + CSS, JavaScript and SQL
 - I'm interested in software development and in working in the area.
 
 <!---
